@@ -4,22 +4,26 @@
 }
 
 .head_block {
-    background-color: blue;
+    background-color: yellow;
+    }
+.box {
     width: 100%;
+
 }
-.one {
+
+.red {
     background-color: red;
-    width: 100%;
-}
+    
+    }
+
 .two {
     background-color: orange;
-    width: 100%
-}
+    }
+
 .three {
     background-color: yellow;
-    width: 100%
-}
+    }
+
 .four{
     background-color: pink;
-    width: 100%;
-}
+    }

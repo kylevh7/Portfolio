@@ -5,6 +5,8 @@
 
 .head_block {
     background-color: yellow;
+    font-size: 12px;
+    text-align: right;
     }
 .box {
     width: 100%;
@@ -13,7 +15,7 @@
 
 .red {
     background-color: red;
-    
+
     }
 
 .two {

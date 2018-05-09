@@ -5,43 +5,12 @@
 }
 /* Header */
 
-.head_block {
-    
-    font-size: 12px;
-    text-align: right;
-    width: 100%;
-    display: inline-block;
 
+@media screen and ("max-width: 480px") {
+.head_block{
+    height: 150px;
     }
-.logo {
-    text-align: left;
-    float: left;
-    position: relative;
-    clear: both;
-    height: 100px;
-    width: 100px;
+#name {
+    font-size: 4em;
+    }
 }
-
-    /*main*/
-
-.box {
-    width: 100%;
-
-}
-
-.red {
-    background-color: red;
-
-    }
-
-.two {
-    background-color: orange;
-    }
-
-.three {
-    background-color: yellow;
-    }
-
-.four{
-    background-color: pink;
-    }

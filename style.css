@@ -1,0 +1,36 @@
+.head_block {
+    text-align: right;
+    width: 100%;
+    display: inline-block;
+    }
+
+.logo {
+        text-align: left;
+        float: left;
+        position: relative;
+        clear: both;
+        }
+.name_title {
+    font-size: 12px;
+}
+    /*main*/
+
+.box {
+    width: 100%;
+    }
+
+.red {
+    background-color: red;
+    }
+
+.two {
+    background-color: orange;
+    }
+
+.three {
+    background-color: yellow;
+    }
+
+.four{
+    background-color: pink;
+    }

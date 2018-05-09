@@ -6,11 +6,9 @@
 /* Header */
 
 
-@media screen and ("max-width: 480px") {
-.head_block{
+@media screen and (max-width: 480px) {
+.head_block {
     height: 150px;
-    }
-#name {
-    font-size: 4em;
+    font-size: 20px;
     }
 }

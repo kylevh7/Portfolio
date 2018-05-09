@@ -1,13 +1,29 @@
 .container {
     display: flex;
     flex-wrap: wrap;
+
 }
+/* Header */
 
 .head_block {
-    background-color: yellow;
+    
     font-size: 12px;
     text-align: right;
+    width: 100%;
+    display: inline-block;
+
     }
+.logo {
+    text-align: left;
+    float: left;
+    position: relative;
+    clear: both;
+    height: 100px;
+    width: 100px;
+}
+
+    /*main*/
+
 .box {
     width: 100%;
 

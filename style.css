@@ -1,5 +1,8 @@
 body {
     font-size: 16px;
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 img, embed, object, video {
 Max-width: 100%;
@@ -9,7 +12,10 @@ Max-width: 100%;
     text-align: right;
     width: 100%;
     display: inline-block;
+    border-bottom: 4px solid #7d97ad;
+
     }
+
 
 .logo {
         text-align: left;
@@ -19,6 +25,9 @@ Max-width: 100%;
         }
 
     /*main*/
+.container {
+    padding-top: 20px;
+}
 
 .box {
     width: 100%;

@@ -16,6 +16,11 @@
     }
 }
 
+@media screen and (min-width: 1000px){
+    #name{
+        font-size: 3vw;
+    }
+}
 /* Main */
 
 .container {

@@ -38,9 +38,8 @@ Max-width: 100%;
     }
 .box {
     width: 100%;
+
 }
-
-
 
 .caption {
     height: auto;
@@ -51,7 +50,10 @@ Max-width: 100%;
     position: relative;
 }
 
-
+.center {
+    display: block;
+    margin: auto;
+}
 
 .figure {
     margin-bottom: 50px;

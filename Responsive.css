@@ -17,15 +17,17 @@
 
 /* Main */
 .container {
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     }
 
 @media screen and (min-width: 650px){
     .box {
-        width: 32%;
+        width: 33%;
         margin-top: 20px;
         margin:auto;
+        position: relative;
     }
 
 }

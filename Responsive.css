@@ -9,6 +9,7 @@
     font-size: 26px;
     }
 }
+
 @media screen and (min-width: 481px) and (max-width: 650px) {
     .head_block {
         font-size: 20px;
@@ -16,6 +17,7 @@
 }
 
 /* Main */
+
 .container {
     width: 100%;
     display: flex;
@@ -27,12 +29,10 @@
         width: 33%;
         margin: auto;
     }
-
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 650px){
     .figure {
-        font-size: 8vw;
-
-        }
+        font-size: 16px;
+    }
 }

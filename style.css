@@ -5,11 +5,11 @@ body {
     margin-right: auto;
     font-family: 'Montserrat', sans-serif;
     color: #7d97ad;
+    }
 
-}
 img, embed, object, video {
 Max-width: 100%;
-}
+    }
 
 .head_block {
     text-align: right;
@@ -17,11 +17,11 @@ Max-width: 100%;
     display: inline-block;
     border-bottom: 4px solid #7d97ad;
     }
+
 .name_title {
     padding-left: 10px;
     padding-right: 10px;
-}
-
+    }
 
 .logo {
         text-align: left;
@@ -29,17 +29,17 @@ Max-width: 100%;
         position: relative;
         clear: both;
         padding-left: 10px;
-        }
+    }
 
     /*main*/
 
 .container {
     padding-top: 20px;
-        }
+    }
 
 .box {
     width: 100%;
-}
+    }
 
 .caption {
     height: auto;
@@ -47,22 +47,25 @@ Max-width: 100%;
     width: 100%;
     margin-bottom: 20px;
     font-size: 1.5em;
-
-}
+    }
 
 .center {
     display: block;
     margin: auto;
-}
+    }
 
 .figure {
-
-    font-size: 2em;
+    font-size: 1.8vw;
     text-align: center;
     margin: auto;
     padding: 0;
-
     }
+
+a {
+    text-decoration: none;
+    color: #7d97ad;
+    }
+
 footer {
     padding-top: 100px;
-}
+    }
